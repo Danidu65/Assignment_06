@@ -1,5 +1,5 @@
 # Assignment_06
 
-Sitemap : <br>
-Wire frame :
-Mockup : 
+Sitemap : <br><br>
+Wire frame : <br><br>
+Mockup : <br><br>
